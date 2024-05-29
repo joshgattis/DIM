@@ -1,4 +1,4 @@
-title:Wishlist
+title:Personal ITTL Wishlist
 description:Personal BIS rolls for ITTL that are currently unobtained.
 
 // Hung Jury SR4 - Hung Jury (Brave) ()
